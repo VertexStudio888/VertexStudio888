@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 data-importer="text" align="center">Vertex Studio</h1>
-###
+
 <br clear="both">
 
 <br clear="both">
